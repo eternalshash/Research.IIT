@@ -38,6 +38,8 @@ The primary goal is to develop an AI/ML model to predict the impact of different
 
 1. **Understanding the Data**
    - Analyze the given multi-dimensional spreadsheet data to understand variability and gene expression changes.
+   - Go through all the data and understand what is needed and what isn't
+   - Make basic models and start rigorous documentation protocols
 
 2. **Implementing Regression Model (Part 1)**
    - Create a preliminary clustering and association-based model using supervised learning techniques.
@@ -77,7 +79,7 @@ This research aims at the treatment paradigms for IBD by clarifying the role of 
 The progress of this project will be showcased at the Armour R&D Expo and the Chicago Area Undergraduate Research Symposium (CAURS).
 
 ## Contributing
-
+At the moment contributions are limited may open in the futre 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
