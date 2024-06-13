@@ -79,7 +79,8 @@ This research aims at the treatment paradigms for IBD by clarifying the role of 
 The progress of this project will be showcased at the Armour R&D Expo and the Chicago Area Undergraduate Research Symposium (CAURS).
 
 ## Contributing
-At the moment contributions are limited may open in the futre 
+At the moment contributions are limited may open in the future
+Project is open to new team members
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
