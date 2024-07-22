@@ -1,0 +1,6 @@
+Sheet name,Description
+CRC_metadata,Metadata for colorectal cancer samples
+IBD_metadata,Metadata for inflammatory bowel disease samples
+IBS_metadata,Metadata for irritable bowel syndrome samples
+,
+All metadata are reported for samples common for both host RNA-seq and 16S rRNA mucosal microbiome data.,
