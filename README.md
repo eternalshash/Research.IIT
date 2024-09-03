@@ -7,7 +7,7 @@ This project aims to develop a machine learning (ML) model to predict intestinal
 ## Applicant Information
 - **Name:** Shashwat Choudhry
 - **Major:** Computer Engineering
-- **Year:** Rising Junior at Illinois Institute of Technology (IIT)
+- **Year:** Junior at Illinois Institute of Technology (IIT)
 - **Faculty Mentor:** Dr. Abhinav Bhushan, Armour College of Engineering
 
 ## Project Description
