@@ -1,8 +1,8 @@
-# Intestinal Function Prediction Using Machine Learning
+# Leveraging AI Models to Predict Gene Expression from Gut Microbiome Profiles in Colorectal Cancer
 
 ## Project Overview
 
-This project aims to develop a machine learning (ML) model to predict intestinal function based on gut bacteria, with a particular focus on patients with Inflammatory Bowel Diseases (IBD) such as Crohn’s disease and ulcerative colitis. These conditions significantly affect drug absorption and metabolism, and our model seeks to elucidate the role of the microbiome in these processes to optimize and personalize treatment strategies.
+This project aims to develop a machine learning (ML) model to predict intestinal function based on gut bacteria, with a particular focus on patients with Colorectal Cancer. Our approach aims to enhance the predictive accuracy of CRC-related gene activity, ultimately contributing to early diagnosis and targeted treatment strategies.
 
 ## Applicant Information
 - **Name:** Shashwat Choudhry
@@ -14,11 +14,11 @@ This project aims to develop a machine learning (ML) model to predict intestinal
 
 ### Background Information and Problem Statement
 
-Recent studies have highlighted how specific bacterial genes can influence drug absorption and metabolism in IBD patients. Despite these advances, there remains a significant gap in understanding which bacterial species are beneficial or detrimental in the context of IBD and how they affect drug response. This project leverages RNA sequencing data and bacterial species abundance data from IBD patient samples to build predictive models.
+Colorectal cancer (CRC) remains one of the most prevalent and deadly forms of cancer worldwide, with significant links between the gut microbiome and tumor development. Emerging research has revealed that variations in the gut microbiome are not only associated with CRC but also play a crucial role in modulating host gene expression, particularly in immune and inflammatory pathways
+Prior studies have largely focused on understanding the influence of the microbiome within isolated disease contexts. However, our study aims to explore the deeper relationship between bacterial species and gene expression specifically in CRC patients
 
 ### Objectives and Scientific Hypothesis
-
-The primary goal is to develop an AI/ML model to predict the impact of different bacterial species on drug metabolism and absorption in IBD patients. The hypothesis is that interactions between certain bacterial species and human genes related to drug metabolism pathways can predict the pharmacokinetic profiles of medications used in IBD treatment.
+The primary goal is to develop an AI/ML model to predict the impact of different bacterial and gene occurance within a patient to predict the likelyhood of CRC within a patient 
 
 ### Methodology and Approach
 
@@ -72,15 +72,16 @@ The primary goal is to develop an AI/ML model to predict the impact of different
 
 ## Expected Contributions and Impact
 
-This research aims at the treatment paradigms for IBD by clarifying the role of the microbiome in drug absorption and metabolism. The AI/ML model developed could personalize and optimize treatment strategies, significantly enhancing patient outcomes and providing a substantial contribution to healthcare in gastrointestinal diseases.
+The project aims to advance cancer diagnostics by leveraging AI to predict gene expression from microbiome profiles, potentially enabling earlier CRC detection. By integrating diverse datasets, the model can improve accuracy, leading to personalized treatment strategies. The development of an API will facilitate real-world testing, allowing for broader clinical application. Ultimately, this research could enhance our understanding of the gut microbiome’s role in cancer.
 
 ## Progress Showcase
 
-The progress of this project will be showcased at the Armour R&D Expo and the Chicago Area Undergraduate Research Symposium (CAURS).
+The progress of this project will be showcased at the Armour R&D Expo and potentially at the Chicago Area Undergraduate Research Symposium (CAURS).
 
 ## Contributing
 At the moment contributions are limited may open in the future
 Project is open to new team members
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -91,6 +92,6 @@ This project is supported by Dr. Abhinav Bhushan and the Armour College of Engin
 
 ## Contact
 
-For any questions or inquiries, please contact Shashwat Choudhry at choudhryshashwat29@gmail.com
+For any questions or inquiries, please contact Shashwat Choudhry at choudhryshashwat29@gmail.com or schoudhry2@hawk.iit.edu
 
 ---
